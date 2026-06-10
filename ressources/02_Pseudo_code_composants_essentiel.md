@@ -70,3 +70,13 @@ Pour votre conception :
 - [ ] Indépendant du langage / de la bibliothèque.
 - [ ] Les décisions clés (seuils, fallback) apparaissent.
 - [ ] Un dev pourrait l'implémenter sans question.
+
+> 💡 **Récap — Pseudo-code** : signatures + flow, **pas** de syntaxe précise ; 2-3 composants **critiques** seulement ; indépendant du langage ; montrer les décisions clés (seuils, fallback). Équilibre entre « trop vague » (un schéma) et « trop précis » (du Python).
+
+### À retenir
+
+- Le livrable se juge sur sa **clarté pour le destinataire**, pas sur sa longueur.
+- **Chiffrer** plutôt qu'affirmer : un nombre vaut mieux qu'un adjectif.
+- **Sobriété** : recommander le plus simple qui résout le besoin, et **dire ce qu'on écarte**.
+- Distinguer ce qu'on **sait** de ce qui reste **à clarifier** (questions ouvertes).
+- Tracer ses **choix** et leur **raison** — c'est ce qui se défend en restitution.

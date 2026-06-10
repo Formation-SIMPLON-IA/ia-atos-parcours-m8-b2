@@ -71,3 +71,13 @@ marp: true
 - [ ] Répartition duo définie et **répétée**.
 - [ ] Timing 10+5 tenu en répétition.
 - [ ] Lisible à 3 mètres.
+
+> 💡 **Récap — Slides format certif** : ≤ 10 slides, 1 idée/slide, ≤ 3 bullets, lisible à 3 m ; **1 slide recommandation** claire ; répartition duo **répétée** ; tenir 10+5 min. C'est exactement le format de la soutenance M9 — dernier entraînement grandeur réelle.
+
+### À retenir
+
+- Le livrable se juge sur sa **clarté pour le destinataire**, pas sur sa longueur.
+- **Chiffrer** plutôt qu'affirmer : un nombre vaut mieux qu'un adjectif.
+- **Sobriété** : recommander le plus simple qui résout le besoin, et **dire ce qu'on écarte**.
+- Distinguer ce qu'on **sait** de ce qui reste **à clarifier** (questions ouvertes).
+- Tracer ses **choix** et leur **raison** — c'est ce qui se défend en restitution.

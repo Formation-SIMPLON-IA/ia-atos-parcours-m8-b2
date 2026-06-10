@@ -72,3 +72,13 @@ Pour votre cas (binôme) :
 - [ ] L'archi est **cohérente** avec les arbitrages.
 - [ ] La sobriété est visible (« non » assumés et justifiés).
 - [ ] Les raisons sont chiffrées quand c'est possible.
+
+> 💡 **Récap — 5 arbitrages** : ML/DL · SLM/LLM · RAG · agents · zero-shot — chacun : choix + 3 raisons + **condition de changement d'avis**. Réflexe : « non » par défaut à LLM/RAG/agents sauf gain prouvé ; cohérence archi (RAG non ⇒ pas de vector DB) ; sobriété notée.
+
+### À retenir
+
+- Le livrable se juge sur sa **clarté pour le destinataire**, pas sur sa longueur.
+- **Chiffrer** plutôt qu'affirmer : un nombre vaut mieux qu'un adjectif.
+- **Sobriété** : recommander le plus simple qui résout le besoin, et **dire ce qu'on écarte**.
+- Distinguer ce qu'on **sait** de ce qui reste **à clarifier** (questions ouvertes).
+- Tracer ses **choix** et leur **raison** — c'est ce qui se défend en restitution.

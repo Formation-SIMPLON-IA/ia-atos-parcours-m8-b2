@@ -69,3 +69,13 @@ le jury creuse pendant 30 min).
 - [ ] Réponses courtes (2-3 phrases), chiffrées si possible.
 - [ ] La question « c'est pas trop simple ? » est anticipée.
 - [ ] Répartition des réponses en duo.
+
+> 💡 **Récap — Questions jury** : anticiper 5-10 questions **réalistes** (pas « qu'est-ce qu'un LLM ? ») ; chaque « non » d'arbitrage appelle un « pourquoi ? » → la réponse = la condition de changement d'avis ; anticiper « c'est pas trop simple ? » (défense de la sobriété). Réponses courtes, chiffrées.
+
+### À retenir
+
+- Le livrable se juge sur sa **clarté pour le destinataire**, pas sur sa longueur.
+- **Chiffrer** plutôt qu'affirmer : un nombre vaut mieux qu'un adjectif.
+- **Sobriété** : recommander le plus simple qui résout le besoin, et **dire ce qu'on écarte**.
+- Distinguer ce qu'on **sait** de ce qui reste **à clarifier** (questions ouvertes).
+- Tracer ses **choix** et leur **raison** — c'est ce qui se défend en restitution.

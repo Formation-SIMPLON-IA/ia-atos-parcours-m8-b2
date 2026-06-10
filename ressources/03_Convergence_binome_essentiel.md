@@ -69,3 +69,13 @@ Avec ton binôme :
 - [ ] `decisions_binome.md` trace position A / B / décision.
 - [ ] Pas de compromis mou (« on met les deux »).
 - [ ] La conception finale est **cohérente** (une seule vision).
+
+> 💡 **Récap — Convergence binôme** : convergence ≠ union ≠ compromis mou : on **négocie** et on **tranche** chaque divergence avec une raison ; tracer position A / B / décision dans `decisions_binome.md`. Le désaccord sain (« et si plus simple ? ») améliore la conception.
+
+### À retenir
+
+- Le livrable se juge sur sa **clarté pour le destinataire**, pas sur sa longueur.
+- **Chiffrer** plutôt qu'affirmer : un nombre vaut mieux qu'un adjectif.
+- **Sobriété** : recommander le plus simple qui résout le besoin, et **dire ce qu'on écarte**.
+- Distinguer ce qu'on **sait** de ce qui reste **à clarifier** (questions ouvertes).
+- Tracer ses **choix** et leur **raison** — c'est ce qui se défend en restitution.
