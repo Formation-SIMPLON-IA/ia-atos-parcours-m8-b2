@@ -19,8 +19,12 @@ recommander le plus **léger** qui résout le besoin.
 - **ML vs DL** : assez de données pour du DL ? Complexité minimale suffisante ?
 - **SLM vs LLM** : la tâche justifie-t-elle un gros modèle, ou un petit (1-3B) suffit ?
 - **RAG** : y a-t-il un **corpus à interroger** ? Sa qualité justifie-t-elle la
-  complexité (embeddings + vector store) ?
+  complexité (embeddings + vector store) ? **Coût sécurité** : tout document
+  indexé peut véhiculer une **injection indirecte** → filtrage du corpus à
+  prévoir (cf. mini-cours 07 de M8-B1).
 - **Agents** : **chaîne de raisonnement** multi-étapes, ou **prédiction unique** ?
+  **Coût sécurité** : périmètre de droits + actions non supervisées → moindre
+  privilège et human-in-the-loop obligatoires (cf. mini-cours 07 de M8-B1).
 - **Zero-shot** : a-t-on un **dataset labellisé** (→ supervisé meilleur) ou un
   démarrage à froid (→ zero-shot baseline) ?
 - **Anti-tropisme** : le réflexe est « non » par défaut à LLM/RAG/agents, sauf gain
