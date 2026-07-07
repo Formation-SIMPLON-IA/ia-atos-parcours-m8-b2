@@ -2,7 +2,7 @@
 
 > **Repo template.** Binôme = les 2 qui ont tiré le **même cas** en M8-B1. « Use
 > this template » → `M8-B2-conception-<cas>-<binome>`. **Pas de code** (pseudo-code OK).
-> Restitution **lundi M9** (15 min, format certif).
+> Restitution **mardi M9** (15 min, format certif).
 
 ## 🧭 Ce que vous produisez
 | # | À faire | Fichier |

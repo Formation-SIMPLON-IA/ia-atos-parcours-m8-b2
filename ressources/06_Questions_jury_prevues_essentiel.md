@@ -6,7 +6,7 @@
 
 ## Pourquoi cette techno ?
 
-En soutenance (lundi M9, puis en certif), les **5 minutes de Q&A** font souvent la
+En soutenance (mardi M9, puis en certif), les **5 minutes de Q&A** font souvent la
 différence. Un binôme qui a **anticipé** les questions probables et préparé ses
 réponses paraît maître de son sujet ; un binôme pris au dépourvu doute. Préparer
 5-10 questions réalistes est un entraînement direct à la **soutenance certif** (où

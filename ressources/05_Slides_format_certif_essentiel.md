@@ -6,7 +6,7 @@
 
 ## Pourquoi cette techno ?
 
-La restitution de lundi M9 est **exactement le format de la soutenance certif** :
+La restitution de mardi M9 reprend **la structure de la soutenance certif** en durée réduite (la vraie soutenance dure 1 h : 30 min + 30 min) :
 15 min (10 présentation + 5 Q&A), slides, en duo. C'est votre **dernier
 entraînement grandeur réelle** avant le jury. Des slides claires, lisibles à 3 m,
 et une présentation répétée font la différence entre « subir » et « maîtriser » la
@@ -72,7 +72,7 @@ marp: true
 - [ ] Timing 10+5 tenu en répétition.
 - [ ] Lisible à 3 mètres.
 
-> 💡 **Récap — Slides format certif** : ≤ 10 slides, 1 idée/slide, ≤ 3 bullets, lisible à 3 m ; **1 slide recommandation** claire ; répartition duo **répétée** ; tenir 10+5 min. C'est exactement le format de la soutenance M9 — dernier entraînement grandeur réelle.
+> 💡 **Récap — Slides format certif** : ≤ 10 slides, 1 idée/slide, ≤ 3 bullets, lisible à 3 m ; **1 slide recommandation** claire ; répartition duo **répétée** ; tenir 10+5 min. Même structure que la soutenance certif, en durée réduite (la vraie dure 1 h : 30 min + 30 min) — dernier entraînement grandeur réelle.
 
 ### À retenir
 
