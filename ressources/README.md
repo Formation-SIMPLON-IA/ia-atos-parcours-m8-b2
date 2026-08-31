@@ -17,3 +17,4 @@
 - `cheatsheet_cloud_hyperscalers.md` — pile technique : cloud vs self-host, les 3 étages IaaS / managé / API
 
 Liens : [`liens_officiels.md`](liens_officiels.md).
+- [`fiche_chiffrage.md`](./fiche_chiffrage.md) — ordres de grandeur pour des arbitrages chiffrés (complète la cheatsheet sobriété & coûts)
