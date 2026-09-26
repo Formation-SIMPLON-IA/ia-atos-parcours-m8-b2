@@ -13,7 +13,8 @@
 | **Mardi 15h30-15h50** | Lecture croisée des cadrages M8-B1 de chaque membre + création du repo de groupe | — |
 | **Mardi 15h50-16h05** | Lister les **3-5 divergences** entre vos cadrages | §1 |
 | **Mardi 16h05-16h45** | **Trancher** chaque divergence : positions, décision, pourquoi | §1 |
-| **Mercredi 9h15-10h00** | **5 arbitrages** : choix + raisons (≥ 1 chiffrée) + condition de changement d'avis, ou « non applicable » justifié | §2 |
+| **Mercredi 9h00-9h30** | Retour d'expérience terrain sur l'IA agentique : notez ce qui servira à votre arbitrage « agents ? » | — |
+| **Mercredi 9h30-10h00** | **5 arbitrages** : choix + raisons (≥ 1 chiffrée) + condition de changement d'avis, ou « non applicable » justifié | §2 |
 | **Mercredi 10h00-11h00** | Architecture finale (Mermaid) + ce qu'on n'a pas mis, évaluation, déploiement & monitoring, conformité & sécurité, coûts | §3 à §7 |
 | **Mercredi 11h00-11h15** | 5 questions probables + réponses, répartition de la parole, **commit final 11h15** | Annexe |
 | **Mercredi 11h15-12h15** | **Restitution** : 20 min par groupe (12 min d'oral sur le schéma final + 8 min de questions). Pas de slides, **chaque membre parle** | — |
